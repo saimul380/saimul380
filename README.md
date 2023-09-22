@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saimul380
 - 👀 I’m interested in learning something new.
 - 🌱 I’m currently learning sofware development in .net framework.
-- 📫 How to reach me? Don't worry.Just email me on my email.
+- 📫 How to reach me? Don't worry.Just mail me on my email address.
 
 <!---
 saimul380/saimul380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
